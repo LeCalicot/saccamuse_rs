@@ -1,0 +1,55 @@
+{
+    "appName": "TagSpaces",
+    "appVersion": "5.5.4",
+    "settingsVersion": 3,
+    "tagGroups": [
+        {
+            "title": "ToDo Workflow",
+            "uuid": "50567824-16ba-4fda-a128-3865df97472f",
+            "children": [
+                {
+                    "title": "done",
+                    "color": "#008000",
+                    "textcolor": "#ffffff",
+                    "type": "plain"
+                },
+                {
+                    "title": "todo",
+                    "color": "#008000",
+                    "textcolor": "#ffffff",
+                    "type": "plain"
+                }
+            ],
+            "color": "#3bbd11",
+            "textcolor": "#ffffff",
+            "expanded": true
+        },
+        {
+            "title": "Common Tags",
+            "uuid": "17882854-44a7-4b2d-a2b1-b022846ac41d",
+            "children": [
+                {
+                    "title": "book",
+                    "color": "#008000",
+                    "textcolor": "#ffffff",
+                    "type": "plain"
+                },
+                {
+                    "title": "paper",
+                    "color": "#008000",
+                    "textcolor": "#ffffff",
+                    "type": "plain"
+                },
+                {
+                    "title": "article",
+                    "color": "#008000",
+                    "textcolor": "#ffffff",
+                    "type": "plain"
+                }
+            ],
+            "color": "#1140bd",
+            "textcolor": "#ffffff",
+            "expanded": true
+        }
+    ]
+}
